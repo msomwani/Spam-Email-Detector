@@ -1,7 +1,9 @@
 Spam Email Detector
+
 This project is a result of my experiments and learning journey with machine learning and text classification in Python. It detects whether an email is spam or not, using the spam.csv dataset from Kaggle.
 
 About
+
 This repository is primarily a collection of my practice, exploration, and notebook experiments with:
 
 Data preprocessing using pandas and NumPy
@@ -13,6 +15,7 @@ Training a simple Naive Bayes model (MultinomialNB) to classify spam
 Interactive, hands-on code for learning and tinkering
 
 Getting Started
+
 Clone the repository:
 
 bash
@@ -44,6 +47,7 @@ Writing a prediction function
 Experimenting with new email samples to see how the model performs
 
 Notes
+
 The notebook is a sandbox for learning—feel free to explore, modify code, and try new things!
 
 Accuracy and performance may vary depending on the experiments you run.
